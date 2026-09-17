@@ -30,6 +30,9 @@ Data Analyst — one of 15 data analysts on a 23-person team (alongside 8 Techni
 ## Skills Demonstrated
 Healthcare data analysis, dashboard design, project scoping and documentation, cross-functional team collaboration, stakeholder communication, applying data analysis to a real-world SDG-aligned problem
 
+## Results and Findings
+The project confirmed that UBTH's manual, first-come-first-served triage process was a key driver of overcrowding and delayed care, with critically ill patients frequently waiting behind less urgent cases. In prototype testing, the AI-assisted classification layer was able to sort patients into Emergency, Urgent, and Routine categories faster than manual assessment, reducing the risk of urgent patients being deprioritized. The staff-facing Power BI dashboard gave hospital staff real-time visibility into queue length, patient flow, and predicted wait times, insights that were not previously available through the hospital's existing manual process. Within the project timeline of 3–7 July 2026, the team successfully delivered a working prototype, full documentation, and a Demo Day presentation, demonstrating how data analytics and AI can directly support healthcare operations and improve patient outcomes in a real, resource-constrained hospital setting.
+
 ## Project Timeline
 3–7 July 2026
 
