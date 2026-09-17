@@ -38,3 +38,9 @@ The project confirmed that UBTH's manual, first-come-first-served triage process
 
 ## Author
 Triphine Isheanesu Jaricha (Data Analyst, Group 26)
+
+## Acknowledgements
+Built as part of the Tech4Dev Women Techsters Data Analysis Bootcamp (Cohort 5.1).
+
+
+
